@@ -3,3 +3,4 @@ fourth time stash modyfing
 Third tme modifying stash
 merging in master
 modifying for merge
+modifying for rebase
